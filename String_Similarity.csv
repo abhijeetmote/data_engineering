@@ -1,0 +1,517 @@
+test_id,description_x,description_y,same_security,seq_match
+0,semtech corp,semtech corporation,True,0.7741935483870968
+1,vanguard mid cap index,vanguard midcap index - a,True,0.8936170212765957
+2,spdr gold trust gold shares,spdr gold trust spdr gold shares,True,0.9152542372881356
+3,vanguard total bond index adm,vanguard total bond market index,True,0.819672131147541
+4,oakmark international fund class i,oakmark international cl i,True,0.8666666666666667
+5,pfizer inc div: .,pfizer inc com,True,0.7096774193548387
+6,spartan global ex us index fid adv cl,sptn glb xus idx adv,True,0.7017543859649122
+7,vanguard total bond market idx-adm,vanguard total bond market index fund investor shares,True,0.7126436781609196
+8,banco latinoamericano de exportacio class e com stk npv,banco latinoamericano come-e,True,0.6024096385542169
+9,baidu inc fadr  adr reps . ord shs,baidu inc spons ads repr . ord cls a us.,True,0.7027027027027027
+10,whole foods market,whole foods markets inc div: .,True,0.75
+11,walgreens boots alliance inc com,walgreens boots alli,True,0.7692307692307693
+12,diageo plc new gb spon adr,diageo p l c spon adr new,True,0.7450980392156863
+13,guggenheim bulletshares ,guggenheim bulletshares  high yield,True,0.8135593220338984
+14,vanguard small-cap index adm,vanguard small-cap index fund inst,True,0.8387096774193549
+15,emerging markets,vanguard ftse emerging marke,True,0.6363636363636364
+16,spdr s&p  etf iv,s&p  index spdr,False,0.45161290322580644
+17,tegna inc com,tegna inc,True,0.8181818181818182
+18,deere & company,deere co,True,0.6956521739130435
+19,vanguard mid-cap index,vanguard mid-cap index fund institutional plus shares,True,0.5866666666666667
+20,jpmorgan chase & co div: .,jpmorgan chase & co,True,0.8444444444444444
+21,american funds europacific growth fund - r,af europac growth r,True,0.6229508196721312
+22,vanguard total bond market idx-adm,vang tot bd mk is pl,True,0.5925925925925926
+23,unitedhealth gp inc div: .,unitedhealth group incorporated,True,0.7017543859649122
+24,american intl group inc warrant //,american intl gro  wtswarrants exp //,True,0.8169014084507042
+25,fifth street finance corp com,fifth street financial corp com,True,0.9333333333333333
+26,ishares jpm embi global core,ishares jpm usd emrg mkt bnd etf,True,0.5666666666666667
+27,metwest tot rtn bd m,metropolitan west tot ret bond,True,0.68
+28,exelixis inc com,exelixis inc,True,0.8571428571428571
+29,glenmede large cap gwth,glenmede large cap growth,True,0.9583333333333334
+30,af europac growth r,american funds europacific growth r,True,0.7037037037037037
+31,dreamworks animation skg cl a,dreamworks animation skg inc cl a,True,0.9354838709677419
+32,dfa us small cap value port instl,dfa u s small cap value cl i,True,0.819672131147541
+33,vanguard ltd-trm t/e adm,vanguard limited-term tax-exempt fund,True,0.6885245901639344
+34,ishares trust msci united kingdom etf,ishares msci u k etf shs,True,0.6557377049180327
+35,pimco total return cl a,pimco total return fund adm,True,0.84
+36,amg yacktman fund service class,amg yacktman service,True,0.7843137254901961
+37,vanguard intermediate-term treasury fund admiral shares,vang intm treas adm,True,0.5135135135135135
+38,pimco incm cl d,pimco fds income instl,True,0.6486486486486487
+39,vanguard growth index fund investor shares,vang growth idx adm,True,0.5573770491803278
+40,vanguard mid cap index,vanguard mid-cap index fund admiral shares,True,0.65625
+41,vanguard value index fund institutional shares,vanguard value index inv,True,0.6571428571428571
+42,vanguard target retirement  fund,vanguard tgt rtrmnt ,True,0.7692307692307693
+43,netflix inc,netflix inc.,True,0.9565217391304348
+44,cisco sys inc com,cisco sys inc,True,0.8666666666666667
+45,pimco income fund cl p,pimco income fd i,True,0.8205128205128205
+46,united parcel service-cl b,united parcel svc inc cl b,True,0.8461538461538461
+47,michael kors holdings ltd com npv,michael kors hldgs ltd,True,0.8
+48,alaska air group inc com,alaska air group inc,True,0.9090909090909091
+49,vanguard total bond market index adm,vanguard ttl bnd mrk indx inst,True,0.7878787878787878
+50,vanguard intermediate-term investment-grade fund admiral shares,vanguard intermediate term inv gr fd inv cl,True,0.6981132075471698
+51,oppenhmr develpng mkts y,oppenheimer developing markets cl y,True,0.8135593220338984
+52,texas instrs incorporated,texas instruments inc,True,0.6956521739130435
+53,sptn intl index fai,spartan intl index fid adv class,True,0.7058823529411765
+54,heartland pmt sys inc com,heartland paymnt sys,True,0.7555555555555555
+55,vanguard total bond market index fund institutional shares,vanguard total bond market index,True,0.7111111111111111
+56,ariel fund inv,ariel fund,True,0.8333333333333334
+57,flir sys inc,flir systems inc,True,0.8571428571428571
+58,pimco income fund cl d,pimco income instl,True,0.75
+59,vanguard shortterm investgrade adm,vanguard shrt trm invmnt grd-inv,True,0.7272727272727273
+60,bristol myers squibb company,bristol myers squibb co,True,0.9019607843137255
+61,metlife inc,metlife incorporated div: .,True,0.5789473684210527
+62,nxp semiconductors n v com,nxp semiconductors nv,True,0.8936170212765957
+63,novo nordisk a/s-adr nvorepstg / cl b sh,novo-nordisk a-s fadr  adr reps  ord shs,True,0.675
+64,vanguard total bond market index fund institutional shares,vanguard total bond market idx instl pls,True,0.7755102040816326
+65,accenture ltd ord,accenture plc ireland,True,0.631578947368421
+66,pimco total ret fd instl,pimco total return fund cl p,True,0.7692307692307693
+67,pimco income a,pimco incm inst cl,True,0.6875
+68,t. rowe price institutional large cap growth,t. rowe price institutional large cap growth fund,True,0.946236559139785
+69,hsbc hldgs plc spons adr new,hsbc hldgs plc spon adr new,True,0.9818181818181818
+70,carnival corp ord (panama),carnival corp com,True,0.7441860465116279
+71,baidu inc spons ads repr . ord cls a us.,baidu inc - spon adr,True,0.6
+72,vanguard mid-cap index fund institutional shares,vanguard mid cap index ins,True,0.6756756756756757
+73,ishares iboxx $ invt grade corp bd,ishares iboxx ig corp bond,True,0.8
+74,ultimate software group inc,ultimate software gp,True,0.851063829787234
+75,pimco income fund cl d,pimco income a,True,0.7222222222222222
+76,franklin income series cl a,franklin incm fd cl a,True,0.7916666666666666
+77,ormat technologies inc,ormat technologies,True,0.9
+78,aqr mgd futures strat fd cl i,aqr aqr mngd futures strategy i,True,0.7666666666666667
+79,ishares russell midcap growth,ishares russell midcap g etf div: .,True,0.78125
+80,vanguard target retirement  fund,vang target ret ,True,0.6666666666666666
+81,vanguard total intl stk,vanguard total intl etf,True,0.9130434782608695
+82,sptn inter treas bnd investor class,sptn int tr idx adv,True,0.5185185185185185
+83,artisan intl value fund inv,artisan international value,True,0.6666666666666666
+84,"stag industrials, inc. com",stag industrial inc com,True,0.9387755102040817
+85,parnassus endeavor fd,parnassus endeavor fund investor shares,True,0.7
+86,johnson & johnson div: .,johnson & johnson jnj,True,0.8
+87,eaton vance floating rate fd cl a,eaton vance bond fund cl i,True,0.711864406779661
+88,vanguard total bond index adm,vanguard ttl bnd mrk indx inst,True,0.7457627118644068
+89,pimco total ret fd instl,pimco total return fund - class r,True,0.7017543859649122
+90,pimco total return fund cl d,pimco tot return adm,True,0.75
+91,tivo inc com,tidewater inc com new,True,0.6060606060606061
+92,zimmer biomet hldgs,zimmer biomet holdings inc com,True,0.7755102040816326
+93,ford mtr company del com par $.,ford mtr co del com par $.,True,0.9122807017543859
+94,guggenheim bullet shrs  hi y c bd etf,guggenheim bulletshares ,True,0.7213114754098361
+95,apple inc com,apple incorporated,True,0.6451612903225806
+96,ishares jpm usd emr etf,ishares jpm usd emrg mkt bnd e tf,True,0.8214285714285714
+97,edison international cmn,edison intl,True,0.6285714285714286
+98,conagra foods inc div: .,conagra foods inc,True,0.8292682926829268
+99,advanced micro devices,advanced micro devices inc,True,0.9166666666666666
+100,american tower corporation reit,american tower reit inc (hldg co) shs,True,0.5588235294117647
+101,vang sm cap idx adm,vanguard small cap index fund,True,0.7083333333333334
+102,vanguard short-term bond index fund investor shares,vanguard short-term bond index,True,0.7407407407407407
+103,"vanguard small cap index, adm",vnguard index trust small cap idx instl,True,0.5882352941176471
+104,ishares jpm usd emrg mkt bnd e tf,ishares jpm embi global core,True,0.5245901639344263
+105,blackrock strat income i,blackrock strategic income opptys investor cl a,True,0.676056338028169
+106,ishares russell midcap,ishares russell mid-cap etf,True,0.8979591836734694
+107,ishares core msci emg mkts etf,harding loevner emerging mkts,False,0.4745762711864407
+108,vanguard intl equity index fds ftse emerging mkts etf,vanguard ftse emerging mark etf iv,True,0.6666666666666666
+109,american funds europacfic r,american euro pac gr r,True,0.7346938775510204
+110,vanguard crsp us small cap ind ex,vanguard small cap etf,True,0.7272727272727273
+111,delta air lines inc dela new,delta air lines inc. (de),True,0.8301886792452831
+112,ishares + yr treasu bond etf div: .,ishares + year treasury bo,True,0.7213114754098361
+113,sptn glb xus idx fai,spartan global ex us index fid adv cl,True,0.6666666666666666
+114,fidelity new insights i,fidelity advisor new insights fund cl i,True,0.7419354838709677
+115,ishares tr nat amt free bd,ishares tr natl mun bd etf fd,True,0.6909090909090909
+116,vanguard small cap index adm,vanguard small-cap index fund institutional shares,True,0.6410256410256411
+117,first eagle global fd cl a,first eagle global class a,True,0.8846153846153846
+118,t rowe price mid cap growth,mid-cap growth fund,True,0.5652173913043478
+119,skyworks solutions,skyworks solutions inc com,True,0.8181818181818182
+120,tile shop hldgs inc,tile shop hldg inc,True,0.972972972972973
+121,t. rowe price health sciences,t rowe price health science fund inc,True,0.8307692307692308
+122,coca-cola co/the,coca-cola company,True,0.7272727272727273
+123,atwood oceanics inc com,atwood oceanics inc.,True,0.8837209302325582
+124,dodge & cox funds income fund,dodge & cox income fund n/l,True,0.8214285714285714
+125,vanguard small cap index fund,vnguard index trust small cap idx instl,True,0.6764705882352942
+126,vanguard mid-cap value etf,vanguard mid cap value etf,True,0.9615384615384616
+127,american funds euro pacific growth r,am fnd europacfic grth r,True,0.8
+128,wisdomtree intl smallcp dividend etf,wisdomtree tr intl smallcap divid fd isin #us sedol #bfg,True,0.717391304347826
+129,boeing company cmn,boeing company,True,0.875
+130,ishares msci emerging markets,harding loevner emerging mkts,True,0.6206896551724138
+131,transocean ltd zug namen akt,transocean ltd ord,True,0.6521739130434783
+132,vanguard small-cap index fund admiral shares,vanguard small-cap index adm,True,0.7777777777777778
+133,pimco total ret fd instl,pimco total return fd cl c,True,0.8
+134,jpmorgan equity income fund cl a,jpmorgan us equity fund - class r,True,0.7384615384615385
+135,energy sector index spdr,energy sector spdr etf,True,0.782608695652174
+136,vanguard total internatlbnd etf iv,vanguard charlotte total intl bd index fd etf,True,0.6075949367088608
+137,t rowe price international discovery fund,t. rowe price international discovery,True,0.9230769230769231
+138,united sts stl cp (new),united states stl corp new,True,0.8571428571428571
+139,coca cola co,coca-cola company,True,0.7586206896551724
+140,spdr barclays high yield bond (jnk),spdr barclays capital high yield bond et,True,0.8
+141,vanguard smallcap index fund,vanguard small-cap index fund institutional shares,True,0.717948717948718
+142,fidelity select utilities portfolio,fid sel utilities,True,0.6538461538461539
+143,select sector spdr trust the technology select sector spdr fund,technology sector sp etf,True,0.5057471264367817
+144,guggenheim s&p  equal we cons etf,guggenheim s&p  equalwe cons etf,True,0.9846153846153847
+145,visa inc class a shares,visa inc cl a div: .,True,0.6511627906976745
+146,skyworks solutions inc com,skyworks solutions inc,True,0.9166666666666666
+147,alibaba group holding ltd spons ads,alibaba group hldg adr fsponsored adr  adr reps  ord,True,0.6896551724137931
+148,pimco income instl,pimco incm inst cl,True,0.8888888888888888
+149,vanguard growth index inv,vanguard growth index fund admiral shares,True,0.696969696969697
+150,canadian natl railway co,canadian natl ry co f,True,0.8444444444444444
+151,first tr exchange traded fd dow jones internet index fd,first tr exchange traded fd dow jones in,True,0.8421052631578947
+152,vanguard total bond index adm,vanguard total bond market index i,True,0.8253968253968254
+153,ishares gold tr,ishares gold tr ishares,True,0.7894736842105263
+154,oppenheimer developing markets y fund,oppenheimer developing markets cl y,True,0.8888888888888888
+155,vanguard total bond market index adm,vang tot bd mk is pl,True,0.6071428571428571
+156,t. rowe price new income,guidemark core fixed income,True,0.5098039215686274
+157,vanguard mid-cap index fund institutional shares,vang midcap idx inst,True,0.5882352941176471
+158,mfs international new discovery r,afs international growth & income fund cl f,True,0.5789473684210527
+159,fitbit inc,fitbit inc cl a,True,0.8
+160,vanguard growth index fund investor shares,vanguard growth index fd admiral share,True,0.825
+161,comcast corp (new) class a div: .,comcast corp cl a,True,0.68
+162,invesco diversified dividend investor cl,fidelity advisor diversified international fund cl c,True,0.5217391304347826
+163,blackrock high yld bd port cl k,blackrock high yield bond portfolio svc,True,0.8
+164,sina com ord (caym is),sina corporation com,True,0.5714285714285714
+165,t.rowe price new horizons-t,new horizons fund,True,0.5454545454545454
+166,vanguard value etf (vtv),vanguard value etf,True,0.8571428571428571
+167,berkshire hathawayinc del cl b new,berkshire hathawayinc,True,0.7636363636363637
+168,schlumberger limited com usd.,schlumberger ltd.,True,0.7391304347826086
+169,union pacific corp,union pac corp com,True,0.7777777777777778
+170,alps etf tr alerian mlp,alps alerian mlp etf,True,0.7441860465116279
+171,vanguard div growth fd investor shrs,vanguard dividend growth fund investor shares,True,0.8888888888888888
+172,tyson foods inc-cl a tsn,tyson foods inc class a,True,0.8085106382978723
+173,american mutual fund-a,american mutual fund cl a,True,0.8936170212765957
+174,canadian national railway,canadian natl railway company com,True,0.7241379310344828
+175,deutsche x-trackers msci eafe hedged equity etf,deutsche x-trackers msci eafe equity etf,True,0.9195402298850575
+176,vanguard total bond index adm,vanguard total bond market idx instl pls,True,0.6666666666666666
+177,western digital corp,western digital corp com,True,0.9090909090909091
+178,ishares core msci emg mkts etf,harding loevner emerg mrkts port adv,False,0.48484848484848486
+179,pimco high income fd com shs,pimco high income fund,True,0.8
+180,ishares inc core msci emerging mkts etf,harding loevner emerging mkts,True,0.6470588235294118
+181,time warner inc com,time warner inc,True,0.8823529411764706
+182,vanguard international growth fund admiral,vanguard international growth fund admiral shares,True,0.9230769230769231
+183,ishares trust core msci total intl stk etf,ishares core msci ttl int stk,True,0.8169014084507042
+184,ishares iboxx invt gradebond etf,ishares iboxx $ invt grade corp bd,True,0.7878787878787878
+185,interactive brokers group inc. com,interactive brokers class a,True,0.6885245901639344
+186,adobe systems,adobe systems incorporated,True,0.6666666666666666
+187,vang tot bd mkt adm,vanguard total bond market idx instl pls,True,0.576271186440678
+188,yandex nv com,yandex n.v. com usd. cl a,True,0.6842105263157895
+189,vanguard small cap index - a,vanguard small-cap index fund inst,True,0.8064516129032258
+190,sirius xm hldgs inc com isin #us sedol #bgldk,sirius xm hldgs inc com,True,0.6764705882352942
+191,vanguard target retirement   fund,vang target ret ,True,0.6530612244897959
+192,communications sales&leas inc div: .,communications sales&leas inc com,True,0.8695652173913043
+193,vanguard index fds vanguard total stk mkt etf,us total stock market,True,0.5151515151515151
+194,t. rowe price equity income fund,t. rowe price equity income,True,0.9152542372881356
+195,ishares tr core us aggt bd etf,ishares core us aggregate bond etf,True,0.84375
+196,american funds europacific growthr,american funds europacific growth fund,True,0.9166666666666666
+197,lazard emerging mkts eqty port opn,lzrd emrg mkts eq o,True,0.7169811320754716
+198,pimco income a,pimco income administrative,True,0.6829268292682927
+199,american express co,american express company,True,0.8837209302325582
+200,taser international,taser intl inc del com,True,0.5365853658536586
+201,vanguard short term tax exempt fd investor shr,vanguard short-term tax-exempt fund investor shares,True,0.9072164948453608
+202,ishares core msci emerging markets etf,harding loevner emerg mrkts port adv,True,0.5135135135135135
+203,vanguard institutional index fund institutional shares,vanguard institl index,True,0.5789473684210527
+204,trp real estate adv,t rowe price real estate fund adv cl,True,0.6909090909090909
+205,jp morgan chase & co com,jpmorgan chase & co div: .,True,0.8
+206,vanguard  index fund admira l,vanguard  index fund admiral class,True,0.9206349206349206
+207,dollar gen corp new com,dollar general corp,True,0.7142857142857143
+208,us silica holdings inc,u s silica hldgs inc com,True,0.8260869565217391
+209,alphabet inc cap stk cl c cap stk cl c,alphabet inc cl c,True,0.6181818181818182
+210,ishares msci usa min volility etf,proshares short vix short term etf,False,0.47761194029850745
+211,fidelity low-priced stock,fid low priced stk,True,0.7906976744186046
+212,vang st invstgrd inv,vanguard short-term invest-grade,True,0.6153846153846154
+213,goldman sachs mangd futures strategy a,aqr aqr mngd futures strategy i,True,0.7536231884057971
+214,select sector spdr trust health care select index,health care select spdr fund,True,0.5454545454545454
+215,metropolitan west fds total ret cl i,metropolitan west tot ret bond,True,0.7878787878787878
+216,chubb limited com,chubb ltd,True,0.6923076923076923
+217,vanguard ftse emerg mkts etf,vanguard intl equity index fds ftse emerging mkts etf,True,0.691358024691358
+218,energy transfer partners un,cheniere energy partners lp com,True,0.5517241379310345
+219,baron partners,baron partners fund,True,0.8484848484848485
+220,prudential financial inc cmn,prudential finl inc,True,0.8085106382978723
+221,t rowe price retirement  fund,t. rowe price retirement  fund,True,0.9830508474576272
+222,templeton global bond class a,templeton global bd r,True,0.8
+223,dominion resources inc va new,dominion resources inc/va,True,0.8888888888888888
+224,ishares tr core us aggt bd etf,ishares core u.s. aggregate,True,0.7368421052631579
+225,citigroup inc,citigroup inc new div: .,True,0.7027027027027027
+226,invesco comstock fund cl a,invesco comstock y,True,0.7727272727272727
+227,oppen developing mkts a,oppenheimer developing mkts fd cl a,True,0.7931034482758621
+228,alphabet inc shs cl a,alphabet inc voting,True,0.65
+229,national grid new adr each repr  ord gbp.,national grid plc new spon adr,True,0.5915492957746479
+230,ishares russell  index etf,ishares russell  etf,True,0.8695652173913043
+231,titan international inc com,titan international inc,True,0.92
+232,proshares tr ii ultra bloomberg crude oi,proshares ultra bloomberg crude oil etf,True,0.8607594936708861
+233,ishares core msci emerging markets etf,harding loevner emerging mkts,True,0.5671641791044776
+234,vang tot bd mkt adm,vanguard total bond market index i,True,0.6415094339622641
+235,mfs global total return fund cl a,mfs global total return cl a,True,0.9180327868852459
+236,metropolitan west total return m,metropolitan west tot ret bond,True,0.8387096774193549
+237,blckrck inflation protect,blackrock inflation protected bond instl,True,0.7692307692307693
+238,dfa real estate securities i,dfa real estate securities fund institutional class,True,0.7088607594936709
+239,leucadia natl corp com,leucadia national co,True,0.7619047619047619
+240,pimco income fd i,pimco income instl,True,0.8
+241,trp retirement ,t. rowe price retirement ,True,0.75
+242,wal-mart stores inc com isin #us sedol #,scana corp new com isin #us sedol #,True,0.72
+243,oppenheimer developing market a,oppenheimer developing mkts fd cl a,True,0.8484848484848485
+244,nuveen high yield muni bond fund cl i,nuveen high yield municipal bond a,True,0.7887323943661971
+245,vanguard short term invt grade admiral,vanguard short-term investment-grade fund investor shares,True,0.6526315789473685
+246,the growth fund of america,amer fds grwth fd amr a,True,0.6122448979591837
+247,fireeye inc,fireeye inc com usd.,True,0.7096774193548387
+248,templeton global bond fund advisor class,templeton global bond fund adv cl,True,0.9041095890410958
+249,ishares inc core msci emerging mkts etf,harding loevner emerg mrkts port adv,True,0.56
+250,silver wheaton corp. ads,silver wheaton corporation com npv isin #ca sedol #bzx,True,0.5641025641025641
+251,dfa us small cap value prtf instl,dfa us sm cap value,True,0.7307692307692307
+252,united states oil fund lp exchange-traded fund,united states oil fund lp unit,True,0.7368421052631579
+253,pimco total return instl,fund: pimco total return admin,True,0.7777777777777778
+254,tesla motors inc com,tesla motors inc.,True,0.8648648648648649
+255,schwab short term us treasury etf,schwab strategic tr short-term us treasury,True,0.7466666666666667
+256,vanguard total bond index adm,vang tot bd mk is pl,True,0.5714285714285714
+257,van small cap index admir,vang sm cap idx inst,True,0.7111111111111111
+258,facebook incorporated class a,facebook inc cl a,True,0.7391304347826086
+259,vanguard ext market index inst,vanguard extended market idx adm,True,0.7741935483870968
+260,t. rowe price new horizons,new horizons fund,True,0.5581395348837209
+261,vanguard total bond market index fund admiral shares,vanguard bond index total mkt investor,True,0.5555555555555556
+262,lloyds banking group plc div: .,lloyds banking group plc,True,0.8727272727272727
+263,vbr:vanguard small-cap value etf,vanguard small cap valueetf iv,True,0.8387096774193549
+264,constellation brands inc cl a,constellation brand class a,True,0.8571428571428571
+265,jp morgan chase & co com,jp morgan chase & co,True,0.9090909090909091
+266,pimco total return instl,pimco total return fund instl cl,True,0.8571428571428571
+267,ishares gold etf,ishares gold trust com,True,0.7368421052631579
+268,schwab intl core equity,schwab intl core eqty fd instl cl,True,0.75
+269,vanguard total bond market index-admiral,vang tot bd mkt inst,True,0.6
+270,pimco total return instl,pimco total return fund adm,True,0.7843137254901961
+271,alibaba group hldg ltd sponsor,alibaba group hldg ltd adr,True,0.8571428571428571
+272,ishares russell  growth,russell  growth (ishares),True,0.625
+273,walt disney co,disney,True,0.6
+274,vanguard s&p  etf (voo),vanguard index fds s&p  etf,True,0.68
+275,ishares msci eafe min volatility etf,ishares trust msci eafe min volatil etf,True,0.88
+276,kraft heinz co com,kraft heinz co div: .,True,0.7692307692307693
+277,metr w tot rtn bond cl m,metropolitan west tot ret bond,True,0.6666666666666666
+278,berkshire hathaway cl-b new,berkshire hathaway inc.,True,0.8
+279,momenta pharmaceuticals,momenta pharmaceuticals inc com,True,0.8518518518518519
+280,colgate palmolive,colgate palmolive co com,True,0.8292682926829268
+281,ishares inc core msci emerging mkts etf,ishares msci emerging markets,True,0.7647058823529411
+282,powershares qqq etf,powershares qqq trust sr  etf,True,0.7916666666666666
+283,vanguard small-cap index fund admiral,vanguard small-cap index fund institutional shares,True,0.7586206896551724
+284,corning inc cm,corning inc,True,0.88
+285,vereit inc reit,vereit inc,True,0.8
+286,ishares core msci emerging div: .,ishares core msci emg mkts etf,True,0.7301587301587301
+287,american funds europacific growth-r,american funds europacific growth fund class r-,True,0.8292682926829268
+288,national oilwell varco inc com,national-oilwell varco inc,True,0.8928571428571429
+289,vanguard  index fund admiral shares,vnguard  index admiral shares,True,0.90625
+290,facebook inc.,facebook inc class a,True,0.7272727272727273
+291,whole foods market inc,whole foods markets inc div: .,True,0.8461538461538461
+292,bhp billiton plc - adr,bhp billiton plc spons adr each rep  ord usd.,True,0.6268656716417911
+293,ishares russell  growth etf iv,ishares russell  grwth etf div: .,True,0.9206349206349206
+294,osterweis strategic income fund,professionally mgd ptfl osterweis strategic inc fd,True,0.6419753086419753
+295,vanguard small cap value etf,vanguard small cap valueetf iv,True,0.9310344827586207
+296,wa core plus bond i,western asset core plus bond fd cl fi,True,0.6785714285714286
+297,kraft heinz co div: .,kraft heinz co com,True,0.7692307692307693
+298,nokia corp-spon adr,nokia corp cls a adr (finnish),True,0.6122448979591837
+299,citrix systems inc.,citrix systems inc,True,0.972972972972973
+300,devry education group inc div: .,devry education group,True,0.7924528301886793
+301,vanguard gnma fund admiral shares,vanguard gnma fund investor share,True,0.8181818181818182
+302,vanguard star investor class,vanguard star fund investor shares,True,0.8064516129032258
+303,vanguard total bond market index adm,vanguard total bond market index fund investor shares,True,0.7640449438202247
+304,ishares gold tr,ishares gold etf,True,0.9032258064516129
+305,eaton corp plc com,eaton corp plc f,True,0.8823529411764706
+306,pepsico inc com,pepsico inc cmn,True,0.9333333333333333
+307,wal-mart stores inc com,wal-mart stores inc.,True,0.8837209302325582
+308,whole foods mkt inc com,whole foods market,True,0.7317073170731707
+309,american capital world growth and income fd a,american capital world grth & inc a,True,0.85
+310,vanguard mid cap index fund - admiral,vanguard mid cap index fund admiral class,True,0.8974358974358975
+311,fidelity corporate bond fund,baird core plus bond inst,True,0.5283018867924528
+312,spartan extended mkt index fid adv class,spartan extended mkt index investor cl,True,0.8205128205128205
+313,nxp semiconductors f,nxp semiconductors n v,True,0.9047619047619048
+314,columbia dividend income,col dividend inc z,True,0.7619047619047619
+315,vanguard sml-cap ind-adm,vanguard small-cap index fund admiral,True,0.7540983606557377
+316,vanguard index  port,vanguard  index fund-inv,True,0.6818181818181818
+317,baidu inc fadr  adr reps . ord shs,baidu inc sponsored adr repstg ord shares class a,True,0.6746987951807228
+318,delaware value fund institutional,delaware value cl a,True,0.6538461538461539
+319,vanguard total bond market index fund admiral shares,vanguard total bond market index inv,True,0.7727272727272727
+320,arista networks inc,arista networks inc com usd.,True,0.8085106382978723
+321,ishares - yr treasury bnd etf,ishares - yr treasury bnd et f,True,0.9830508474576272
+322,united sts oil fd lp units,united states oil fund lp exchange-traded fund,True,0.6388888888888888
+323,pimco income fund cl p,pimco fds income instl,True,0.6818181818181818
+324,diageo plc fadr  adr reps  ord shs,diageo p l c spon adr new,True,0.576271186440678
+325,harbor capital appreciation instl,harbor capital appreciation,True,0.9
+326,price t rowe group inc com isin #ust sedol #,c h robinson worldwide inc com new isin #us sedol #,True,0.6736842105263158
+327,ishares s&p midcap fund,ishares core s&p mid capetf,True,0.76
+328,pimco total return cl a,fund: pimco total return admin,True,0.7547169811320755
+329,johnson and johnson,johnson and johnson com,True,0.9047619047619048
+330,ishares msci cda etf,ishares msci canada index,True,0.8
+331,carnival corp com,carnival corp f,True,0.875
+332,priceline group,priceline grp inc com new,True,0.65
+333,westport innovation f,westport innovations inc,True,0.8888888888888888
+334,wisdomtree emerging markets high dividend fund etf,wisdomtree emrg mrkt hg div etf,True,0.7654320987654321
+335,d.r. horton inc,d r horton co,True,0.7857142857142857
+336,vanguard total bond market index adm,vanguard total bond market idx instl pls,True,0.8157894736842105
+337,ishares - year treas bond etf,ishares barclays - year treasury bond,True,0.7575757575757576
+338,vanguard total bond market index-admiral,vanguard total bond market index fund institutional plus shares,True,0.6990291262135923
+339,vanguard sml-cap ind-adm,vanguard small-cap index fund institutional shares,True,0.5675675675675675
+340,vanguard interm-term investment-grde adm,vanguard intermediate term inv gr fd inv cl,True,0.6506024096385542
+341,teva pharmaceuticals adr,teva pharmaceuticals ind ltd israel adr,True,0.7619047619047619
+342,dfa intl small cap value cl i,dfa intl small cap value port instl,True,0.84375
+343,prudential financial inc div: .,prudential finl inc,True,0.76
+344,af bond fd amer r,the bond fund of america-a,True,0.6046511627906976
+345,allergan plc,allergan plc f,True,0.9230769230769231
+346,vale sa,vale s a adr,True,0.7368421052631579
+347,vanguard short-term corporate bond etf,vanguard short-term corporate bond,True,0.9444444444444444
+348,vanguard index fds vanguard small cap growth vipers formerly,vanguard small-cap grwth etf,True,0.5909090909090909
+349,vanguard short-term bondetf,vanguard short term etf,True,0.88
+350,goldman sachs mgd futures strat a,aqr mgd futures strat fd cl i,True,0.6451612903225806
+351,vanguard total bond index adm,vanguard total bond market index fund investor shares,True,0.6585365853658537
+352,xinyuan real estate com,xinyuan real estate co ltd spon adr,True,0.7586206896551724
+353,ishares core u.s. aggregate bond etf,ishares core total us bond market etf,True,0.6575342465753424
+354,devon energy corp,devon energy corporation (new) cmn,True,0.6666666666666666
+355,berkshire hathaway class b,berkshire hathawayinc,True,0.8085106382978723
+356,vanguard reit index investor,vanguard reit index inv,True,0.9019607843137255
+357,markel corp hldg co,markel corp,True,0.7333333333333333
+358,vanguard high-yield corporate fund investor shares,vanguard high yield corp fund admiral share,True,0.7956989247311828
+359,oneok inc new div: .,oneok inc cm (new),True,0.6842105263157895
+360,iron mtn inc new com div: .,iron mtn inc reit,True,0.6818181818181818
+361,howard hughes corp com,howard hughes corp,True,0.9
+362,af bond fd amer r,the bond fund of america,True,0.6341463414634146
+363,kraft heinz co,kraft heinz co div: .,True,0.8
+364,costco wholesale crp del,costco wholesale co,True,0.8372093023255814
+365,first trust amex biotechnology index fund,first trust nyse arca biotechnology index fund,True,0.8735632183908046
+366,american tower corporation isin #us sedol #bfbfl,american tower corp reit,True,0.5833333333333334
+367,the growth fund of america,the growth fund of america-a (),True,0.9122807017543859
+368,priceline group inc com,priceline group inc,True,0.9047619047619048
+369,pimco total return fund instl cl,total return fund (pimco),True,0.7017543859649122
+370,southwest gas corp.,southwest gas corp div: .,True,0.8636363636363636
+371,vanguard dividend growth fund investor shares,vanguard dividend growth fund,True,0.7837837837837838
+372,j p morgan chase & co,jpmorgan chase & co div: .,True,0.8085106382978723
+373,merck & company inc new,merck & co inc new,True,0.8780487804878049
+374,pimco incm cl d,pimco income fd i,True,0.75
+375,vanguard fixed income secs inter term invt grade fd admiral cl,vanguard intermediate term inv gr fd inv cl,True,0.6476190476190476
+376,vanguard growth index fund investor shares,vanguard growth index admiral,True,0.7323943661971831
+377,guggenheim bulletshares ,guggenheim bulletshares  high yield corp bd,True,0.7164179104477612
+378,vanguard total bond market div: .,vanguard total bond mkt,True,0.8214285714285714
+379,blackhawk network hldgs inc cl a,blackhawk netwk hldgs inc,True,0.8771929824561403
+380,vanguard balanced index fd inv cl shrs,vanguard balanced index fund admiral shares,True,0.8395061728395061
+381,vanguard mid-cap value index fund,vanguard mid-cap value etf,True,0.847457627118644
+382,ishares tr natl mun bd etf fd,ishares nationl amt freemuni etf,True,0.6557377049180327
+383,bank amer corp com,bank of america corp.,True,0.717948717948718
+384,russell  growth (ishares),ishares russell  grw etf div: .,True,0.5357142857142857
+385,american fd growth fd of america cl a,amer fds grwth fd amr a,True,0.6333333333333333
+386,ishares us real estate etf,ishares u s real estate etf,True,0.9811320754716981
+387,dfa emerging markets portfolio,dfa emrging markets,True,0.7755102040816326
+388,alphabet inc-cl a,alphabet inc. class a,True,0.8421052631578947
+389,raytheon co (new) div: .,raytheon co com,True,0.6153846153846154
+390,charles schwab new,schwab charles corp new,True,0.6341463414634146
+391,alibaba group holding lt,alibaba group hldg ltd sponsor,True,0.7777777777777778
+392,oakmark international i,oakmark fds oakmark intl,True,0.5106382978723404
+393,mastercard incorporated cmn class a,mastercard inc-class a,True,0.7368421052631579
+394,kimberly-clark corp,kimberly-clark corp.,True,0.9743589743589743
+395,ishares - yr treasry bd etf div: .,ishares barclays - year treasury bond,True,0.647887323943662
+396,vanguard small-cap index fund admiral shares,vanguard small-cap index fund inst,True,0.8205128205128205
+397,foot locker inc com isin #us sedol #,foot locker inc com isin #us sedol #,True,1.0
+398,vanguard ttl bond mkt idx adm,vanguard total bond market index inv,True,0.8
+399,chesapeake energy corporation oklahoma,chesapeake energy corp,True,0.7333333333333333
+400,charles schwab corporation cmn,schwab charles corp new,False,0.49056603773584906
+401,vanguard intl equity index fds ftse all world ex usa small cap index fd etf shs,vanguard ftse all world ex us small cap etf,True,0.7049180327868853
+402,chicago bridge & iron co nv,chicago bridge & iron company n.v. eur. reg,True,0.7714285714285715
+403,amer fds grwth fd amr a,american gr fd of america a,True,0.64
+404,amg managers real estate securities fund,amg managers real estate securities fd,True,0.9743589743589743
+405,american new perspective class a,new perspective fund cl a,True,0.7017543859649122
+406,lloyds banking group plc sp adr,lloyds banking group plc div: .,True,0.8387096774193549
+407,vanguard  idx adm,vanguard s&p  index - a,True,0.75
+408,vanguard total bond market index admiral,vanguard total bond market index fund institutional shares,True,0.7551020408163265
+409,j p morgan chase & co,jp morgan chase & co,True,0.975609756097561
+410,halliburton co hldg,halliburton company,True,0.7368421052631579
+411,guggenheim bulletshares  high yield corp bd,claymore exchange traded fd trust guggenheim bltshrs  high yld cp bd,True,0.6126126126126126
+412,ishares russell  value etf,ishares russell  value etf iv,True,0.9454545454545454
+413,pimco total return a,total return fund (pimco),True,0.5777777777777777
+414,vanguard index fds vanguard reit etf formerly vanguard index tr to // reit viper shs,vanguard index fds vanguard reit etf formerly vanguard index,True,0.8333333333333334
+415,powershares emrg mkts sovrgn dbt etf,powershares emerging markets sovereign d,True,0.7894736842105263
+416,vang tot bd mkt adm,vanguard total bond market index,True,0.6666666666666666
+417,arena pharmaceuticals inc com,arena pharmaceuticals,True,0.84
+418,nokia corp spon adr f adr rep  nokia corps,nokia corp sponsored adr,True,0.5757575757575758
+419,vanguard value index fund admiral shares,vanguard value index fund institutional shares,True,0.8372093023255814
+420,vanguard total int bd idx etf,vanguard charlotte total intl bd index fd etf,True,0.7837837837837838
+421,pimco total ret fd instl,pimco total return r,True,0.7272727272727273
+422,intl business machines,intl business mach,True,0.9
+423,harbor international fund,harbor international,True,0.8888888888888888
+424,vanguard intl bond index etf,vanguard total internatlbnd etf iv,True,0.6451612903225806
+425,vanguard extended market index institutional class,vang ext mkt idx ins,True,0.5714285714285714
+426,caterpillar inc del,caterpillar inc,True,0.8823529411764706
+427,visa inc com cl a,salesforce.com inc com,True,0.5128205128205128
+428,pimco total return admin,total return fund (pimco),True,0.6122448979591837
+429,pepsico inc.,pepsico inc nc div: .,True,0.7272727272727273
+430,powershares fin pfd portfoli,powershares etf financial pfd portfolio,True,0.835820895522388
+431,fid sel biotech,fidelity select biotechnology,True,0.6818181818181818
+432,arcelormittal sa luxembourg ny registry sh isin #us sedol #bf,arcelormittal sa (luxembourg),True,0.6
+433,realty incm corp reit,realty income corporation com,True,0.68
+434,vanguard total international stock index fund admiral shares,vanguard ttl intl stk ind adm,True,0.651685393258427
+435,c h robinson worldwide inc com new isin #us sedol #,c.h. robinson worldwide inc,True,0.6410256410256411
+436,sprint corp shs series -,sprint corp,True,0.6285714285714286
+437,google inc cl c,alphabet inc cap stk cl c,True,0.55
+438,templeton glbal bond adv,templeton global bond adv,True,0.9795918367346939
+439,apollo investments corp com,apollo invt corp com,True,0.851063829787234
+440,sptn us bond idx is,spartan us bond indx fidelity adv class,True,0.6551724137931034
+441,ishares inc msci emrg mkts min volatility etf,ishares msci markets minvol etf,True,0.7105263157894737
+442,vanguard total bond market index admiral,vanguard total bond market idx-adm,True,0.8918918918918919
+443,southwest gas corp div: .,southwest gas corp,True,0.8372093023255814
+444,vanguard ftse developd mkt etf,vanguard ftse dev markets etf,True,0.847457627118644
+445,spdr nuveen barclays muni bond etf,spdr nuveen barclays muni,True,0.847457627118644
+446,dodge & cox interntl stock,dodge & cox international stock,True,0.9122807017543859
+447,alexion pharms inc,alexion pharmaceuticals inc,True,0.8
+448,vanguard total bond market idx-adm,vanguard ttl bnd mrk indx inst,True,0.75
+449,general mtrs co,general motors co.,True,0.9090909090909091
+450,zoes kitchen inc com isin #us sedol #bln,zoes kitchen inc com,True,0.6666666666666666
+451,loomis sayles bond fund cl i,loomis sayles mlti-asset inc a,True,0.5862068965517241
+452,athenahealth inc delaware,athenahealth inc,True,0.7804878048780488
+453,ishares silver trust etf,ishares silver shares,True,0.7555555555555555
+454,emerging markets,harding loevner emerging mkts,True,0.5777777777777777
+455,markel corp hldg co,markel corp holding company,True,0.8260869565217391
+456,ameriprise financial inc,ameriprise finl inc,True,0.8837209302325582
+457,vanguard malvern fds etf,vanguard short term inflation protected,False,0.4444444444444444
+458,alibaba group hldg limited sponsored ads,alibaba group hldg adr fsponsored adr  adr reps  ord,True,0.7391304347826086
+459,american funds american hi inc tr r,american high-income trust,True,0.5573770491803278
+460,first eagle global i,first eagle global fund cl i,True,0.8333333333333334
+461,van mid cap index adm m,vanguard mid cap index,True,0.7555555555555555
+462,chesapeake energy corp,chesapeake energy corp com,True,0.9166666666666666
+463,starbucks corp. cmn,starbucks corp washington div: .,True,0.5882352941176471
+464,mc donalds corp div: .,mcdonalds corp,True,0.7777777777777778
+465,american funds europacifc r,american funds europacific r,True,0.9818181818181818
+466,block h & r inc,block h&r inc,True,0.9285714285714286
+467,vanguard ftse developed mkts etf,vanguard ftse developed market etf,True,0.9393939393939394
+468,vang tot bd mkt adm,vang tot bd mk is pl,True,0.7692307692307693
+469,pimco investment grade corporate bond fund - class a,fidelity conservativ income bond fd cl i,False,0.45652173913043476
+470,vanguard mid cap index fund - admiral,vanguard mid cap index fd,True,0.8064516129032258
+471,vanguard intrmd-term bond index adm,vanguard inter-term bond index port inv,True,0.8108108108108109
+472,infinera corporation com isin #us sedol #byby,infinera corp com,True,0.5483870967741935
+473,vanguard crsp us small cap index,vanguard small cap etf,True,0.7407407407407407
+474,oneok partners lp lp,oneok partners l p unit ltd partnership,True,0.6779661016949152
+475,american mutual fund,american fd american mutual fd cl f,True,0.6545454545454545
+476,american funds europacific growth-r,american europacific growth,True,0.8709677419354839
+477,vang tot bd mkt adm,vanguard ttl bnd mrk indx inst,True,0.5714285714285714
+478,breitburn energy partners lp c,breitburn energy partners lp com,True,0.967741935483871
+479,new york community bancorp inc.,new york community,True,0.7346938775510204
+480,pimco income instl,pimco income administrative,True,0.7555555555555555
+481,select sector spdr trust technology select index,sector spdr tr shs ben int technology,True,0.6352941176470588
+482,vanguard ttl bond mkt idx adm,vanguard bond index total mkt investor,True,0.5671641791044776
+483,tmpl global bond a,templeton global bond fund r,True,0.7391304347826086
+484,ishares + year treasury bo,ishares + year,True,0.7
+485,vang sm cap idx adm,vnguard index trust small cap idx instl,True,0.5172413793103449
+486,linkedin corp class a,linkedin corp-a,True,0.7777777777777778
+487,primecap odyssey stock,primecap odyssey stock fund,True,0.8979591836734694
+488,time warner inc,time warner inc com new,True,0.7894736842105263
+489,vanguard total bond market index-admiral,vanguard total bond market index fund institutional plus,True,0.75
+490,marathon pete corporation,loews corporation div: .,True,0.5714285714285714
+491,ishares core msci emerging etf,harding loevner emerging mkts,True,0.5423728813559322
+492,vanguard short term tax exempt admiral share,vanguard short-term tax-exempt fund investor shares,True,0.8
+493,ford motor com,ford mtr co,True,0.88
+494,vanguard ftse all world ex us etf,vanguard ftse all-world ex-u,True,0.8524590163934426
+495,vmware inc cl a com,vmware inc.,True,0.6666666666666666
+496,royal dutch shell plc spons adr a,royal dutch shell plc sponsored adr repstg a shs,True,0.8148148148148148
+497,spdr nuveen barclays municipal bond etf,spdr nuveen barclays capital m div: .,True,0.7105263157894737
+498,united parcel service cl b,united parcel service inc cl b,True,0.9285714285714286
+499,vang smcp gr idx adm,vanguard small cap growth index admiral,True,0.6779661016949152
+500,novo-nordisk a s adr,novo-nordisk a s adr isin #us sedol #,True,0.7017543859649122
+501,fidelity mass muni income,nuveen equity premium income,True,0.5283018867924528
+502,ishares russell mid-cap value etf,ishares russell mid cap value etf iv,True,0.927536231884058
+503,yamana gold inc cmn,yamana gold inc com,True,0.9473684210526315
+504,vanguard total bond market idx-adm,vanguard total bond market idx instl pls,True,0.8108108108108109
+505,otter tail corp com,otter tail corporation cmn,True,0.8
+506,sptn intl index ins,sptn intl index adv,True,0.8421052631578947
+507,cnooc ltd. adr (sponsored),cnooc limited adr fsponsored adr  adr rep  cl h ord,True,0.5974025974025974
+508,eaton vance global macro abs ret a,eaton vance global macro abslte rt cl a,True,0.9041095890410958
+509,dfa u s small cap value cl i,dfa us small cap value prtf instl,True,0.819672131147541
+510,sears canada inc (canada),sears cda inc,True,0.6842105263157895
+511,at&t inc com isin #usr sedol #,franklin res inc com isin #us sedol #,True,0.7761194029850746
+512,vanguard total international bond index etf,vanguard total international bond et,True,0.9113924050632911
+513,wisdomtree japan hedged equity -,wisdomtree japan hedged eq,True,0.896551724137931
+514,templeton global bond fund advisor class,templeton glbal bond adv,True,0.75
+515,trp health sciences,t. rowe price health sciences fund,True,0.7169811320754716
